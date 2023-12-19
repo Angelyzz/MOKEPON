@@ -1,0 +1,31 @@
+.titulo {
+    color: navy;
+    width: 197px;
+    height: 50px;
+    background-color: aquamarine;
+
+}
+
+label {
+    background-color: tomato;
+    width: 197px;
+    height: 50px;
+
+}
+
+input {
+    background-color: blueviolet;
+    width: 197px;
+    height: 50px;
+
+}
+
+button {
+    background-color: crimson;
+    width: 197px;
+    height: 50px;
+
+}
+
+
+
